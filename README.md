@@ -1,7 +1,11 @@
 # SystemC & AccessNoxim
 All you need to build and run SystemC and AccessNoxim on your system
 
-building SystemC{do this inside systemc-2.3.1}
+You have to download AccessNoxim from (http://access.ee.ntu.edu.tw/noxim/index.html) and SystemC from (http://accellera.org/downloads/standards/systemc) then uncompress the files, then proceed (of course you knew it!;0))
+
+# this tutorial is tested for AccessNoxim v0.3 and SystemC 2.3.1 on Debian 7 amd64
+
+Building SystemC{do this inside systemc-2.3.1}
 
     export SYSTEMC_HOME=/usr/local/systemc231
     sudo mkdir $SYSTEMC_HOME
@@ -12,7 +16,7 @@ building SystemC{do this inside systemc-2.3.1}
     make 
     sudo make install
 
-building AccessNoxim{do this inside AccessNoxim_v0.3}
+Building AccessNoxim{do this inside AccessNoxim_v0.3}
 
     export SYSTEMC_HOME=/usr/local/systemc231
     export SYSTEMC_HEADERS=$SYSTEMC_HOME/include
@@ -21,12 +25,12 @@ building AccessNoxim{do this inside AccessNoxim_v0.3}
     cd bin
     make
 
-to run AccessNoxim{do this inside AccessNoxim_v0.3/bin}
+To run AccessNoxim{do this inside AccessNoxim_v0.3/bin}
 
     chmod +x noxim
     ./noxim
 
-you could run bashSetup.sh to add SYSTEMC_HOME and SYSTEMC_HEADERS and C_INCLUDE_PATH and CPLUS_INCLUDE_PATH permenantly to your .bash startup scrip
+You could run bashSetup.sh to add SYSTEMC_HOME and SYSTEMC_HEADERS and C_INCLUDE_PATH and CPLUS_INCLUDE_PATH permenantly to your .bash startup scrip
 
     chmod +x bashSetup.sh
     ./bashSetup.sh

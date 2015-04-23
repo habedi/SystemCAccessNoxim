@@ -1,5 +1,5 @@
 # SystemC & AccessNoxim
-All you need to build and run SystemC and AccessNoxim on your system
+All you need know to build and run SystemC and AccessNoxim on your system
 
 I assume you have downloaded AccessNoxim from (http://access.ee.ntu.edu.tw/noxim/index.html) and SystemC from (http://accellera.org/downloads/standards/systemc) and have uncompressed them in a directory, having two folders named AccessNoxim_v0.3 and systemc-2.3.1 inside it.
 
@@ -30,7 +30,9 @@ To run AccessNoxim{do this inside AccessNoxim_v0.3/bin}
     chmod +x noxim
     ./noxim
 
-You could run bashSetup.sh to add SYSTEMC_HOME and SYSTEMC_HEADERS and C_INCLUDE_PATH and CPLUS_INCLUDE_PATH permenantly to your .bash startup scrip
+You could run bashSetup.sh to add SYSTEMC_HOME and SYSTEMC_HEADERS and C_INCLUDE_PATH and CPLUS_INCLUDE_PATH permenantly to your bash startup scrip{aka ~/.bashrc}
 
     chmod +x bashSetup.sh
     ./bashSetup.sh
+
+![Alt text](http://full/path/to/img.jpg "Optional title")

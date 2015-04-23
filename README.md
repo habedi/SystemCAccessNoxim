@@ -1,7 +1,7 @@
 # SystemC & AccessNoxim
 All you need to build and run SystemC and AccessNoxim on your system
 
-I assume you have downloaded AccessNoxim from (http://access.ee.ntu.edu.tw/noxim/index.html) and SystemC from (http://accellera.org/downloads/standards/systemc) and uncompressed them in a directory, having two folders named AccessNoxim_v0.3 and systemc-2.3.1 inside it
+I assume you have downloaded AccessNoxim from (http://access.ee.ntu.edu.tw/noxim/index.html) and SystemC from (http://accellera.org/downloads/standards/systemc) and have uncompressed them in a directory, having two folders named AccessNoxim_v0.3 and systemc-2.3.1 inside it.
 
 # Note: This tutorial is tested for AccessNoxim v0.3 and SystemC 2.3.1 on Debian 7 amd64
 

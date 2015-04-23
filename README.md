@@ -35,4 +35,4 @@ You could run bashSetup.sh to add SYSTEMC_HOME and SYSTEMC_HEADERS and C_INCLUDE
     chmod +x bashSetup.sh
     ./bashSetup.sh
 
-![Alt text](http://full/path/to/img.jpg "Optional title")
+![AccessNoxim](https://github.com/habedi/SystemC-AccessNoxim/blob/master/accessnoxim-run.png "running noxim")

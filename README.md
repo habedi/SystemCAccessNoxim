@@ -31,11 +31,11 @@ To run AccessNoxim{do this inside AccessNoxim_v0.3/bin}
     chmod +x noxim
     ./noxim
 
-You could run bashSetup.sh to add SYSTEMC_HOME and SYSTEMC_HEADERS and C_INCLUDE_PATH and CPLUS_INCLUDE_PATH permenantly to your bash startup scrip{aka ~/.bashrc}
+You could run bashSetup.sh to add SYSTEMC_HOME and SYSTEMC_HEADERS and C_INCLUDE_PATH and CPLUS_INCLUDE_PATH permanently to your bash start-up scrip{aka ~/.bashrc}
 
     chmod +x bashSetup.sh
     ./bashSetup.sh
 
-A screenshot of a noxim run
+A screen-shot of a noxim run
 
 ![AccessNoxim](https://github.com/habedi/SystemC-AccessNoxim/blob/master/accessnoxim-run.png "running noxim")

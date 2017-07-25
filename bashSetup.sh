@@ -1,4 +1,5 @@
 
+# setting required environment variables
 echo "# SystemC and AcessNoxim EnV" >> ~/.bashrc
 echo "export SYSTEMC_HOME=/usr/local/systemc231" >> ~/.bashrc
 echo "export SYSTEMC_HEADERS=$SYSTEMC_HOME/include" >> ~/.bashrc

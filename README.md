@@ -1,5 +1,5 @@
 # SystemC & AccessNoxim
-All you need know to build and run SystemC and AccessNoxim on your system
+All you need know to build and run SystemC and AccessNoxim on your system.
 
 [![GitHub issues](https://img.shields.io/github/issues/habedi/SystemC-AccessNoxim.svg)](https://github.com/habedi/SystemC-AccessNoxim/issues)	[![GitHub forks](https://img.shields.io/github/forks/habedi/SystemC-AccessNoxim.svg)](https://github.com/habedi/SystemC-AccessNoxim/network)	[![GitHub stars](https://img.shields.io/github/stars/habedi/SystemC-AccessNoxim.svg)](https://github.com/habedi/SystemC-AccessNoxim/stargazers)	[![GitHub license](https://img.shields.io/badge/license-AGPLv3-blue.svg)](https://raw.githubusercontent.com/habedi/SystemC-AccessNoxim/master/LICENSE)
 
